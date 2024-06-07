@@ -1,0 +1,59 @@
+/* /* .logo{
+    display: flex;
+    align-items: center;
+} */
+.header-container{
+    background-color: blue;
+    width: auto;
+    height: auto;
+    /* position: relative;
+    top: 0px;
+    left: 0px; */
+    z-index: +1;
+}
+.logo{
+    /* position: absolute;
+    top: 0;
+    left: 0; */
+    /* display: flex; */
+    width: 400px;
+    height: 800px;
+    background-color: blueviolet;
+}
+.logo a {
+    font-size: 34px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: 500px;
+    color: black;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+.logo a em{
+    color: orangered
+}
+
+#nav-bar{
+    /* position: ;
+    top: 0px;
+    right: 10px; */
+}
+#nav-bar ul li{
+    background-color: yellowgreen;
+    display: block;
+    float: left;
+    width: 90px;
+    padding:10px;
+    text-align: center;
+    list-style-type: none;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: 500px;
+    text-transform: uppercase;
+}
+#nav-bar ul li:hover{
+    color: orangered;
+}
+.bg-video{
+/* position: absolute;
+top: 0px;
+z-index: 0; */
+} */
